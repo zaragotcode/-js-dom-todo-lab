@@ -5,12 +5,12 @@ body {
     top: 250px;
     right: 50px;
     left: 50px;
-}
-
-h1, input, button {
-    color: white;
-}
-
-button {
     color: black;
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    font-size: 24px;
 }
