@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(37, 84, 141, 0.703);
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    right: 50px;
+    left: 50px;
+}
+
+h1, input, button {
+    color: white;
+}
+
+button {
+    color: black;
+}

@@ -1,4 +1,4 @@
-console.log('sanity check')
+// console.log('sanity check')
 
 // create cached element references
 const inputEl = document.querySelector("#list-input")  
